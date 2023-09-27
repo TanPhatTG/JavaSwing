@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class TITV {
+
+	public static void main(String[] args) {
+		System.err.println("Hello Phat !!!");
+		Scanner scanner = new Scanner(System.in);
+				
+		String hoTen = scanner.nextLine();
+		int tuoi = scanner.nextInt();
+		int gioiTinh = scanner.nextInt();
+	}
+}

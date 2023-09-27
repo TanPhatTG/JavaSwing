@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class TITV {
+
+	public static void main(String[] args) {
+		double i = 1000000000;
+		while (true) {
+			System.err.println(i);
+			i++;
+		}
+	}
+}
